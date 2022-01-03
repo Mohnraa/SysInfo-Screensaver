@@ -1,0 +1,14 @@
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\bin\Debug\SysInfo-Screensaver.exe.config
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\bin\Debug\SysInfo-Screensaver.exe
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\bin\Debug\SysInfo-Screensaver.pdb
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo-Screensaver.csproj.AssemblyReference.cache
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo-Screensaver.csproj.SuggestedBindingRedirects.cache
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo_Screensaver.Properties.Resources.resources
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo-Screensaver.csproj.GenerateResource.cache
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo-Screensaver.csproj.CoreCompileInputs.cache
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo-Screensaver.exe
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo-Screensaver.pdb
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo_Screensaver.mainForm.resources
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\bin\Debug\System.CodeDom.dll
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\bin\Debug\System.CodeDom.xml
+C:\Users\tgmx1\Documents\Repos\SysInfo-Screensaver\SysInfo-Screensaver\obj\Debug\SysInfo-Screensaver.csproj.CopyComplete
