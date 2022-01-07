@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SysInfo_Screensaver;
 
 namespace SysInfo_Screensaver
 {
@@ -16,6 +17,7 @@ namespace SysInfo_Screensaver
         public mainForm()
         {
             InitializeComponent();
+            getInfo();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -40,16 +42,12 @@ namespace SysInfo_Screensaver
 
         private void button1_Click(object sender, EventArgs e)
         {
-            allClear();
-            CPUtextbox.Text = controller.getCPU();
-            RAMtextbox.Text = controller.getRAM();
-            HDDtextbox.Text = controller.getHDD();
-            GPUtextbox.Text = controller.getGPU();
+            getInfo();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            this.ActiveControl = CPUlabel;
         }
 
         private void clearButton_Click(object sender, EventArgs e)
@@ -63,6 +61,16 @@ namespace SysInfo_Screensaver
             RAMtextbox.Clear();
             HDDtextbox.Clear();
             GPUtextbox.Clear();
+        }
+
+        private void getInfo()
+        {
+            allClear();
+            CPUtextbox.Text = controller.getCPU();
+            RAMtextbox.Text = controller.getRAM();
+            HDDtextbox.Text = controller.getHDD();
+            GPUtextbox.Text = controller.getGPU();
+            CPUtextbox.Select(0,0);
         }
     }
 }
